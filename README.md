@@ -12,7 +12,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 #### Mobile View
 
-![](images/screenshot-mobile.png)
+<img src="https://hweitian.github.io/frontendmentor-product-preview-card-component-main/images/screenshot-mobile.png" width="150">
 
 ### Built with
 
